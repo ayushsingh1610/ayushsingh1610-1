@@ -8,9 +8,8 @@ function Contact() {
         <div className="text-2xl">Contact</div>
         <div className="container m-8 flex h-full max-h-fit w-full max-w-4xl flex-col items-center justify-between sm:h-96 sm:flex-row sm:justify-evenly">
           <div className="flex h-full w-full flex-col items-stretch justify-center gap-4 bg-indigo-700 px-8 py-36">
-            <p>Mail : test@outlook.com</p>
-            <p>Address: Anywhere, Earth</p>
-            <p>Tel: 123456789</p>
+            <p>Mail : ayushsingh1610@outlook.com</p>
+            <p>Address: Lucknow, Uttar Pradesh</p>
           </div>
           <div className="flex max-h-fit w-full shrink flex-col items-stretch justify-center gap-8 bg-neutral-300 px-8 py-16 text-neutral-900 sm:h-full sm:py-24">
             <div className="">

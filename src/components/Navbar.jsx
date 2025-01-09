@@ -13,9 +13,9 @@ function Navbar() {
             <li />
             <a href="">Projects</a>
             <li />
-            <a href="">Twitter</a>
+            <a href="https://x.com/ayushsingh1610">Twitter</a>
             <li />
-            <a href="">Instagram</a>
+            <a href="https://www.instagram.com/_ayushsingh._.16">Instagram</a>
           </ul>
         </div>
         <div className="md:hidden">

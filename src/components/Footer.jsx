@@ -8,11 +8,11 @@ function Footer() {
             <div>
                 <ul className="flex flex-col sm:flex-row justify-evenly items-start md:items-center gap-2 md:gap-8">
                     <li />
-                    <a href="">Github</a>
+                    <a href="https://github.com/ayushsingh1610">Github</a>
                     <li />
-                    <a href="">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/ayushsingh1610">LinkedIn</a>
                     <li />
-                    <a href="">X(Twitter)</a>
+                    <a href="https://x.com/ayushsingh1610">X(Twitter)</a>
                 </ul>
             </div>
         </div>
