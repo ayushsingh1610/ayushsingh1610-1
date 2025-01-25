@@ -29,7 +29,7 @@ function Projects() {
         ],
       ].map(([title, desc, url, imgsrc]) => (
         <div className="flex flex-col justify-center items-center gap-8 mx-12 my-8">
-          <a href={url} className="flex flex-col md:flex-row justify-evenly items-center gap-8 shrink bg-indigo-600 hover:bg-indigo-700 rounded-xl p-8 sm:mx-6 md:mx-12 sm:p-8 md:p-12 ">
+          <a href={url} className="min-w-fit flex flex-col md:flex-row justify-evenly items-center gap-8 shrink bg-indigo-600 hover:bg-indigo-700 rounded-xl p-8 sm:mx-6 md:mx-12 sm:p-8 md:p-12 ">
             <div>
               <img
                 className="cover shrink"

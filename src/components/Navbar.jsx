@@ -1,5 +1,5 @@
-import React from "react";
-import Sidebar from "./Sidebar";
+import React, { useEffect, useRef } from "react";
+import Hamburger from "./Hamburger";
 
 function Navbar() {
   return (
@@ -18,13 +18,7 @@ function Navbar() {
             <a href="https://www.instagram.com/_ayushsingh._.16">Instagram</a>
           </ul>
         </div>
-        <div className="md:hidden">
-          <button
-            type="button"
-            className="bg-indigo-600 rounded-lg p-2">
-            <img src="https://ik.imagekit.io/ayushsingh1610/icons/hamburger-menu?updatedAt=1736320389266" width={20} alt="menu" />
-          </button>
-        </div>
+        <Hamburger/>
       </div>
     </>
   );
